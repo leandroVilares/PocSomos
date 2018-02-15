@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  contextPath: /pocsomos
+  
+jdbc: 
+  oracle: 
+    url: jdbc:oracle:thin:@//172.20.12.82:1521/PEDA5O
+    username: prd_soainfra
+    password: "abril123"
+    maxPoolSize: "50"
+    minPoolSize: "10"
+    maxStatements: "100"
+    testConnection: true

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: PocSomos
+Implementation-Version: 1.0.0
+Built-By: leandro mello
+Implementation-Vendor-Id: com.somos.poc
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/pocsomos/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
